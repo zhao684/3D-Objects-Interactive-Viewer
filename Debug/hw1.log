@@ -1,0 +1,23 @@
+﻿  Main.cpp
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_a1\main.cpp(47): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_a1\main.cpp(48): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_a1\main.cpp(49): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_a1\main.cpp(50): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_a1\main.cpp(59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_a1\main.cpp(62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_a1\main.cpp(65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_a1\main.cpp(68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_a1\main.cpp(175): warning C4305: '+=': truncation from 'double' to 'float'
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_a1\main.cpp(178): warning C4305: '+=': truncation from 'double' to 'float'
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_a1\main.cpp(190): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_a1\main.cpp(191): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_a1\main.cpp(192): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_a1\main.cpp(193): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_a1\main.cpp(370): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_a1\main.cpp(371): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_a1\main.cpp(376): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_a1\main.cpp(399): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_a1\main.cpp(400): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_a1\main.cpp(403): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_a1\main.cpp(404): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  hw1.vcxproj -> D:\homeworks\Purdue\18fall\CS334\Zhao_Tianyu_A1\Debug\hw1.exe

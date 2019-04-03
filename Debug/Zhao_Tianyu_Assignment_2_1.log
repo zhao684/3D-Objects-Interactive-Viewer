@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (hw1.vcxproj, Zhao_Tianyu_Assignment_2_1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Zhao_Tianyu_Assignment_2_2.cpp
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_2_2\zhao_tianyu_assignment_2_2.cpp(160): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_2_2\zhao_tianyu_assignment_2_2.cpp(161): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_2_2\zhao_tianyu_assignment_2_2.cpp(164): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_2_2\zhao_tianyu_assignment_2_2.cpp(165): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_2_2\zhao_tianyu_assignment_2_2.cpp(177): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_2_2\zhao_tianyu_assignment_2_2.cpp(181): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_2_2\zhao_tianyu_assignment_2_2.cpp(194): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_2_2\zhao_tianyu_assignment_2_2.cpp(198): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_2_2\zhao_tianyu_assignment_2_2.cpp(210): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_2_2\zhao_tianyu_assignment_2_2.cpp(211): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_2_2\zhao_tianyu_assignment_2_2.cpp(214): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_2_2\zhao_tianyu_assignment_2_2.cpp(215): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_2_2\zhao_tianyu_assignment_2_2.cpp(273): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_2_2\zhao_tianyu_assignment_2_2.cpp(274): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_2_2\zhao_tianyu_assignment_2_2.cpp(277): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\homeworks\purdue\18fall\cs334\zhao_tianyu_assignment_2_2\zhao_tianyu_assignment_2_2.cpp(278): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Zhao_Tianyu_Assignment_2_1.vcxproj -> D:\homeworks\Purdue\18fall\CS334\Zhao_Tianyu_Assignment_2_2\Debug\Zhao_Tianyu_Assignment_2_2.exe
